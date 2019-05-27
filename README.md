@@ -1,12 +1,13 @@
 # Image Captioning
 
-The repository contains the Deep Learning model to generate the description based from the feeded image. The project involves use of both Natural Language Processing and Computer Vision to create a model that can generate description based on the image as the input in the machine learning model. 
+The repository contains the Deep Learning model to generate the description based from the feeded image. The project involves use of both Natural Language Processing and Computer Vision to create a model that can generate description based on the image as the input in the machine learning model.
 
-I have used Flickr30k model to train the deep learning model. The model describes the image in the best possible way 
+I have used Flickr30k model to train the deep learning model. The model describes the image in the best possible way
 
 ### Predictions
 
-<center><p><img src = "images/prediction.png"></p></center>
+<center><p><img src = "images/prediction_first.png"></p></center>
+<center><p><img src = "images/prediction_second.png"></p></center>
 
 ## Frameworks
 <ul>
